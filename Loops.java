@@ -18,9 +18,9 @@ public class Loops
         //Print numbers from 1 to 10 
         //inside of each nub i need to have 3 "Hi"
 
-        int n =1 ;
+        //int n =1 ;
 
-        while(n<=10)
+       /*  while(n<=10)
         {
             System.out.println(n);
 
@@ -32,6 +32,25 @@ public class Loops
             }
 
             n++;//post increment
+        }*/
+
+
+        /*
+        do
+        {
+
+            System.out.println(n);
+
+            n++;
+
+        }while (n <=10);
+        */
+
+        //for loop there are three deferent statements in one line 
+
+        for(int n=0; n <= 10; n++)
+        {
+            System.out.println(n);
         }
     }
 }
