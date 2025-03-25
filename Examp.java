@@ -6,7 +6,7 @@ class Computer
         System.out.println("music playing");
     }
 
-    public String getMeAPen(int cost)
+    public St getMeAPen(int cost)
     {
         return"Pen";
     }
@@ -14,11 +14,11 @@ class Computer
 
 
 public class Examp {
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {
         Computer obj = new Computer();
         obj.playMusic();
-        String ss = obj.getMeAPen(100);
+        St ss = obj.getMeAPen(100);
         System.out.println(ss);      
     }
 }

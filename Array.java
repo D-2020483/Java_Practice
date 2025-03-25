@@ -1,13 +1,13 @@
 class Student
 {
     int rollno;
-    String name;
+    St name;
     int marks;
 }
 public class Array 
 {
 
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {
         /*int st [] = {3,7,2,4}; //print the specific number from the array we need to call the index number of the array
         //st[3] = 10;// change the number of specific index

@@ -1,6 +1,6 @@
 public class Operators 
 {
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {   
         // All of these are arethmatic Operators
 

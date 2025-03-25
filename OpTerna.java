@@ -1,5 +1,5 @@
 public class OpTerna {
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {
 
         //How to check if a given number is even or odd

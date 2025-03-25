@@ -1,6 +1,6 @@
 public class Typecon 
 {
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {
         //convertion is automatic convertion   Byte → Short → Int → Long → Float → Double
 

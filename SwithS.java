@@ -1,6 +1,6 @@
 public class SwithS 
 {
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {
         int y = 3;
 

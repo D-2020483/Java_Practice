@@ -1,6 +1,6 @@
 public class CondSt 
 {
-    public static void main(String[] args) 
+    public static void main(St[] args) 
     {
         //the condin is i need to print "Helow" as the output when the x variable value is gretter than 20
 

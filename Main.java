@@ -1,6 +1,6 @@
 public class Main 
 {
-    public static void main(String[] args)
+    public static void main(St[] args)
     {
        // double marks =5.4;  // int is a data type, num1 is variable name, value for the variable (theses are known as assigment operators )  , these values are known as literals
         
