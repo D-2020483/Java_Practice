@@ -48,9 +48,30 @@ public class Loops
 
         //for loop there are three deferent statements in one line 
 
-        for(int n=0; n <= 10; n++)
+        /*for(int n=0; n <= 10; n++)
         {
             System.out.println(n);
+        }*/
+
+       
+        for (int n = 0; n <= 10; n++) 
+        {
+            if (n % 2 == 0) 
+            {
+                System.out.println(n);
+            }
+           
+        }
+
+        System.out.println();
+
+        for (int n = 0; n <= 10; n++) 
+        {
+            if (n % 2 != 0) 
+            {
+                System.out.println(n);
+            }
+           
         }
     }
 }
